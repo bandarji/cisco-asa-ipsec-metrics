@@ -18,6 +18,7 @@ metrics to WaveFront, but output easy enough to change to any destination.
 * To Do
   * Create metrics Docker container
   * Create infrastructure YAML
+  * Build smaller container (Alpine, maybe)
 
 ## SNMP Object Identifiers of Interest
 
